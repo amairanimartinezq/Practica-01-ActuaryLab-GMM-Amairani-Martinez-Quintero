@@ -1,0 +1,4 @@
+escenario,G,benchmark_agregado_G,g_port_G,decision_G
+Optimista (G=25%),0.25,1022.1926581827865,-0.02876294337491888,Zona Neutral
+Central (G=30%),0.3,1095.206419481557,-0.09775581486187035,Subprecio
+Conservador (G=40%),0.4,1277.7408227284832,-0.25190649468912857,Subprecio
